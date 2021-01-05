@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "59eb8cc002800ee00d12fd9d8b3db603",
+  "assets/AssetManifest.json": "e92aefb37f5786ef422ef6695dff7178",
+"assets/assets/icon/icon.png": "51c0fc057ef98dae370df207ccc80b00",
 "assets/assets/images/heart1.png": "3b2d8653efaec328eecfd79744a602e5",
 "assets/assets/images/heart2.png": "bb305cfa4abbaf2b4b5cb594dbd3c362",
 "assets/assets/images/image_4.png": "f095ec5975166175753cac174166b19e",
@@ -24,14 +25,14 @@ const RESOURCES = {
 "assets/assets/images/img_trucbachhop.jpg": "e6aeb563a2dbd974718d2b1c51057f0a",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "e186a31999f6b2a2e83703fff3bae760",
+"assets/NOTICES": "729adf14541a8a9f8b78da416063ac0c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "83015236a2b6de67f2804bb4474d30e8",
-"/": "83015236a2b6de67f2804bb4474d30e8",
-"main.dart.js": "291730cc421b25713e53d782b676e312",
+"index.html": "75099ccd9ed6a7258e5da3b5572bc0b1",
+"/": "75099ccd9ed6a7258e5da3b5572bc0b1",
+"main.dart.js": "c26b78380cecc69778b5ffd92ab1caa2",
 "manifest.json": "dad30188a200860f0081446de4b83036",
 "version.json": "da520ce25cf6b4621aa6b7f955908579"
 };
