@@ -61923,13 +61923,13 @@ O.GR.prototype={
 xS:function(){var s=0,r=P.am(t.z),q=[],p=this,o,n,m,l,k,j,i,h,g
 var $async$xS=P.ag(function(a,b){if(a===1)return P.aj(b,r)
 while(true)switch(s){case 0:try{n=P.a9(["transports",H.c(["websocket"],t.i),"autoConnect",!0],t.X,t.z)
-m=P.hW("http://192.168.0.253:3000")
+m=P.hW("http://192.168.43.253:3000")
 l=m.gcY()+"://"+m.geY(m)+":"+m.gjy(m)
 k=m.gdn(m)
 j=$.a8t.a8(0,l)&&$.a8t.h(0,l).c.a8(0,k)
-if(J.d(n.h(0,"forceNew"),!0)||J.d(n.h(0,"force new connection"),!0)||!1===n.h(0,"multiplex")||j){$.ajx().as(C.k,"ignoring socket cache for http://192.168.0.253:3000",null,null)
-i=Q.aej(n,"http://192.168.0.253:3000")}else{i=$.a8t.h(0,l)
-if(i==null){i=Q.aej(n,"http://192.168.0.253:3000")
+if(J.d(n.h(0,"forceNew"),!0)||J.d(n.h(0,"force new connection"),!0)||!1===n.h(0,"multiplex")||j){$.ajx().as(C.k,"ignoring socket cache for http://192.168.43.253:3000",null,null)
+i=Q.aej(n,"http://192.168.43.253:3000")}else{i=$.a8t.h(0,l)
+if(i==null){i=Q.aej(n,"http://192.168.43.253:3000")
 $.a8t.m(0,l,i)}}if(m.gfD(m).length!==0&&n.h(0,"query")==null)n.m(0,"query",m.gfD(m))
 else if(t.bO.b(n.h(0,"query")))n.m(0,"query",E.abX(n.h(0,"query")))
 h=i.Md(m.gdn(m).length===0?"/":m.gdn(m),n)
@@ -61943,7 +61943,7 @@ return P.al($async$xS,r)},
 pt:function(){var s=0,r=P.am(t.z),q=this,p
 var $async$pt=P.ag(function(a,b){if(a===1)return P.aj(b,r)
 while(true)switch(s){case 0:s=2
-return P.ay(G.ahZ("http://192.168.0.253:3000/device/userget/mac"),$async$pt)
+return P.ay(G.ahZ("http://192.168.43.253:3000/device/userget/mac"),$async$pt)
 case 2:p=b
 q.d=J.aA(C.aS.ya(0,B.ahV(U.agQ(p.e).c.a.h(0,"charset")).cH(0,p.x),null),0)
 q.pp()
@@ -61952,7 +61952,7 @@ return P.al($async$pt,r)},
 pp:function(){var s=0,r=P.am(t.z),q=this,p
 var $async$pp=P.ag(function(a,b){if(a===1)return P.aj(b,r)
 while(true)switch(s){case 0:s=2
-return P.ay(G.ahZ(C.b.J("http://192.168.0.253/device/userget/",q.d)+"/oxi"),$async$pp)
+return P.ay(G.ahZ(C.b.J("http://192.168.43.253/device/userget/",q.d)+"/oxi"),$async$pp)
 case 2:p=b
 J.em(C.aS.ya(0,B.ahV(U.agQ(p.e).c.a.h(0,"charset")).cH(0,p.x),null),new O.a2M(q))
 P.kS(q.e)
