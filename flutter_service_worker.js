@@ -3,38 +3,20 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e92aefb37f5786ef422ef6695dff7178",
-"assets/assets/icon/icon.png": "51c0fc057ef98dae370df207ccc80b00",
-"assets/assets/images/heart1.png": "3b2d8653efaec328eecfd79744a602e5",
-"assets/assets/images/heart2.png": "bb305cfa4abbaf2b4b5cb594dbd3c362",
-"assets/assets/images/image_4.png": "f095ec5975166175753cac174166b19e",
-"assets/assets/images/img.png": "d0dfb918c39695889777b347b2080a6e",
-"assets/assets/images/img_avatar.png": "f6452627ebf17b2390f8a711fd040e53",
-"assets/assets/images/img_bachmahoangtu.jpg": "7fc8485bdf280bdc98beac18fe540902",
-"assets/assets/images/img_bangsingapo.jpg": "d8f5dae89a62db22027ed57bf1dec624",
-"assets/assets/images/img_cayconhat.jpg": "7cb3389672b54d29f7112d6b20aefb71",
-"assets/assets/images/img_caykimngan.jpg": "f2a65ffaddb7b7a4e030387faad66af0",
-"assets/assets/images/img_caykimtien.jpg": "07a9c979e6185a96d06f2c084e5ce9a3",
-"assets/assets/images/img_cayluoiho.jpg": "36bfe5e92226d8c6aced0dfbd04e5d00",
-"assets/assets/images/img_cayngocngan.jpg": "b1e95503e9356371a7e2bb0d260ac5d2",
-"assets/assets/images/img_cayphatloc.jpg": "dd79dc71db7bd54d8ca44151a4b637ee",
-"assets/assets/images/img_caytrauba.jpg": "24fcaf409f4ffafa55dd0dbb5f93fe77",
-"assets/assets/images/img_cayvanloc.jpg": "bdaf265b68007f58ec22b4b2cd805029",
-"assets/assets/images/img_daiphugia.jpg": "2c1ba30ac27bc517d99dc8a950ba7218",
-"assets/assets/images/img_thietmoclan.jpg": "1b6c8cec3d50868101c1b4b3682f2b6a",
-"assets/assets/images/img_trucbachhop.jpg": "e6aeb563a2dbd974718d2b1c51057f0a",
+  "assets/AssetManifest.json": "9742ca37cd782bed2c29dc1042d20484",
+"assets/assets/images/img_app.png": "63ad7c10cdeb513e4983697e389d0789",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "729adf14541a8a9f8b78da416063ac0c",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
+"assets/NOTICES": "aa2f7fe6535ce426e2f4c6ee6ccc9730",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "03fad47bdd816a55bafc7791c868f496",
-"/": "03fad47bdd816a55bafc7791c868f496",
-"main.dart.js": "5d0eb83b6f6bac8890e89fcf1a8b124f",
-"manifest.json": "dad30188a200860f0081446de4b83036",
-"version.json": "da520ce25cf6b4621aa6b7f955908579"
+"index.html": "033d3587f82e391dba38ea831238bfc3",
+"/": "033d3587f82e391dba38ea831238bfc3",
+"main.dart.js": "66d806633a243a8523852f22eaecb593",
+"manifest.json": "941273e7b5b1216c1f6940cd23c0ffd2",
+"version.json": "7e47ec12658a5ecadc1d1ff0b98d3bf7"
 };
 
 // The application shell files that are downloaded before a service worker can
